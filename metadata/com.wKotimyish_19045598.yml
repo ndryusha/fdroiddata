@@ -1,0 +1,15 @@
+# Этот файл описывает ваше приложение для F-Droid
+<<!nav>>appID: <<!nav>>com.wKotimyish_19045598<<!/nav>> # Уникальный идентификатор вашего приложения
+<<!nav>>version: <<!nav>>1.0<<!/nav>> # Версия приложения
+<<!nav>>versionCode: <<!nav>>1<<!/nav>> # Код версии приложения
+<<!nav>>name: <<!nav>>Кот и мышь<<!/nav>> # Название приложения
+<<!nav>>summary: <<!nav>>игра в которой надо вращать кошку и мышку<<!/nav>> # Краткое описание приложения
+<<!nav>>description:игра в которой надо вращать кошку и мышку| # Полное описание вашего приложения
+  Это подробное описание вашего приложения для F-Droid.
+  Здесь вы можете рассказать о функциях, преимуществах и другую полезную информацию.
+<<!nav>>source: # Ссылка на исходный код вашего приложения
+  <<!nav>>git: <<!nav>>https://github.com/ndryusha/CatAndMouse-SourceCode/blob/main/gdevelop-game.zip<<!/nav>>https://github.com/ndryusha/CatAndMouse-SourceCode# URL вашего Git-репозитория
+<<!nav>>categories: # Категории, к которым относится ваше приложение
+  - System # Например: System, Adventure, Action, etc.
+<<!nav>>tags: # Теги для вашего приложения
+  - example # Например: example, utility, open-source, etc.
